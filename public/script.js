@@ -1,4 +1,7 @@
-let x;
-x = 100;
-x = "Hi"
-window.alert("10" + x * 10)
+let age = 14; 
+let maxAge = 98;
+let numPerDay = "2 packs of seaweed";
+let totalRequired = (numPerDay * 365) * (maxAge - age);
+
+document.write( "You will need " + totalRequired + " to last you until the ripe old age of " + maxAge ".");
+
