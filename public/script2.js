@@ -9,7 +9,7 @@
     </label><br/>
 
     <label>Enter your Max age
-        <input id="age"/>
+        <input id="maxAge"/>
     </label><br/>
 
     <label>
@@ -20,8 +20,12 @@
     <p> Result :
         <span id="resultHere"></span>
     </p>
-    <button>Accept input</button>
-
-    <script src="script2.js"></script>
+    <button onclick="age">Accept input</button>
+    <script src="script2.js">
+        function resultHere() {
+            let totalRequired = (numPerDay * 365) * (maxAge - age);
+            document.getElementById("resultHere").innerText = totalRequired;
+        }
+    </script>
 </body>
 </html>
