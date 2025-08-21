@@ -1,7 +1,48 @@
 <!DOCTYPE html>
-<head>
-</head>
+<html>
 <body>
     <h2>Q1 3rd Graded Exercise submitted by Cari Gabriel of 9Magnesium</h2>
-    
+
+    <p>Guess the number: ****
+    </br></br>The number is from 1 to 100
+    </p></br>
+
+    <label>Enter your guess:
+        <input id="yourGuess" />
+    </label></br>
+
+    <button onclick="checkIt()">Check It</button></br>
+    <p>Result:
+        <span id="result"></span>
+    </p>
+
+    <script>
+        var dNumber = Math.floor((Math.random() * 100) + 1);
+        function checkIt() {
+            let yourGuess = parseInt(document.getElementById("yourGuess").value);
+            let result;
+
+            if (yourGuess == dNumber) {
+                result = "You are correct!";
+            }
+
+            else if (yourGuess > dNumber) {
+                result = "Lower";
+            }
+
+            else {
+                result = "Higher";
+            }
+
+            document.getElementById("result").innerText = result;
+        }
+
+    </script>
+
+</br></br><p><b>Citations:</b></br>
+<em>W3Schools.com. </em>(n.d.). <a href="https://www.w3schools.com/jsref/jsref_random.asp">https://www.w3schools.com/jsref/jsref_random.asp</a></br>
+<em>W3Schools.com. </em>(n.d.). <a href="https://www.w3schools.com/js/js_if_else.asp">https://www.w3schools.com/js/js_if_else.asp</a></br>
+Delib. (2025, March 20). <em>Creating footnotes - HTML anchors.</em> Delib Knowledge Base. <a href="https://help.delib.net/article/483-creating-footnotes-html-anchors">https://help.delib.net/article/483-creating-footnotes-html-anchors</a></p>
+
 </body>
+</html>
