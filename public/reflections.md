@@ -1,0 +1,20 @@
+# cari's reflections ‧₊˚♪ 𝄞₊˚⊹
+![inoue tumblr gif divider](https://64.media.tumblr.com/e3d7942d8d12e4106c5af46c10e6525d/4160be3cc2b84620-d6/s250x400/b2630bf81866deba5d7801b9251e853f3a0dbe59.gif)
+
+### topics i know *well*... 🌐
+1. **variable declaration** ✶ as its name suggests, it's a very simple process. the only part you'd ever probably have difficulty in are determining what *kind* of variable you're defining. beyond that, it is incredibly easy.
+2. **arithmetic operators** ✶ similarly to variable declaration, this is also a very simple process. it uses essentially the same symbols that were used in previous coding languages, which helps since it means that we don't have to learn new shortcuts for basic operations.
+3. **input & output statements** ✶ the input and output statements that we use are very understandable. the different purposes of each output statement are also stated and taught clearly, so you know which one to use if you want your output to display as an alert, text in the live server, etc.
+4. **if else statements** ✶ since if else statements were also taught in previous coding languages, implementing this knowledge into javascript is simple. it's a great way to implement conditional processes in your code without having to deal with the slightly trickier parts such as functions and loops.
+5. **declaring functions** ✶ the early on implementation of functions in exercises like 1st, 2nd, and 3rd graded helped me understand how functions actually work in practice instead of just how they *should* work on paper. this was also introduced in c++ the previous year, so understanding how they work and how to call on them isn't as difficult as it could be.
+---
+### topics i need *practice* in... 💤
+1. **while & do-while loops** ✶ in opposition to declaring functions, while i know how these loops work on paper, i'm never able to execute them properly so that my knowledge of how they work actually translates into my code. i've struggled with these loops since last year as well, but since majority of loops of the time could be converted into for loops instead, i didn't pay much attention to my deficiency in them. now, i think i'm going to try using them more in my code so i become more used to them and their practical use.
+2. **event handlers** ✶ while trying to do some advanced studying, i encountered some trouble with event handlers. for some reason, every time i tried to use them, they wouldn't work and i'm not sure why. however, i think that with some thorough discussion and exercises, i'll be able to understand it soon.
+3. **7th graded exercise** ✶ as i mentioned, i struggle a good amount with loops, and this exercise tripped me up. don't get me wrong, i knew what i needed to do, but i couldn't translate the process that was in my head into an *actual* code. i think this loops back into my limited knowledge of things like while & do-while loops, which means i really need to refine my skills in that department.
+4. **comprehending tricky codes in LTs** ✶ this, more specifically, ascertains to parts of LTs where they ask you for what this block of code will output. i usually get through these parts smoothly, but sometimes, it's a bit harder to understand what the process is. i think that reviewing for CS by generating questions like these may help me with this issue.
+5. **generally translating process into actual code** ✶  i've most likely mentioned this a million times in this reflection, but i have a lot of trouble with translating what i need to do to meet the goal of the code into actual code. this occurred during the the 7th graded exercise and the LT2, and it's just very frustrating to not be able to have the code flow out of my brain like it does for some others. i am not sure what could remedy this.
+---
+
+# 𓏲 ๋࣭  ࣪ ˖ ․ thank you for reading! 
+![inoue tumblr gif divider](https://64.media.tumblr.com/e3d7942d8d12e4106c5af46c10e6525d/4160be3cc2b84620-d6/s250x400/b2630bf81866deba5d7801b9251e853f3a0dbe59.gif)
